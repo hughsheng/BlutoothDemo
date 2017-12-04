@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlueToothDemo</string>
+    <string name="ble_not_supported">该设备不支持蓝牙4.0以上版本</string>
+</resources>
