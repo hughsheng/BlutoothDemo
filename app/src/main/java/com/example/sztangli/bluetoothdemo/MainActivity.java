@@ -375,6 +375,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return;
         }
         mBluetoothGatt.readCharacteristic(characteristic);
+        String branch1="branch1";
     }
 
     public void wirteCharacteristic(BluetoothGattCharacteristic characteristic) {
